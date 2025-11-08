@@ -2,7 +2,7 @@ local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Ilian
 local selectedTheme = "Default"
 local V = "V.0.16"
 library:CreateWindow({
-	Title = "Evade - by BaeMinh  |  💀 Evade 🌺",-- Title of the script
+	Title = "Evade - by dino Robux  |  💀 Evade 🌺",-- Title of the script
 	Theme = selectedTheme,--View more theme in my dicord server!
 	Icon = 0,-- 0 = no icon or add number
 	Intro = false,--Intro or no
@@ -16,7 +16,7 @@ library:CreateWindow({
 	},
 	Discord = {
 		Enabled = false,--enable to copy the discord
-		DiscordLink = "https://discord.gg/E2TqYRsRP4",-- put thr entire Link of discord
+		DiscordLink = "https://t.me/dinotopuprobux",-- put thr entire Link of discord
 		RememberJoin = false,-- Set this ti false to make them copy the link every time they load the script
 		Duration = 5,-- 5 is the default you can change the number only for remember join
 	},
